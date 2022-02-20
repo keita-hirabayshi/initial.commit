@@ -1,0 +1,32 @@
+body {
+    height: 500px;
+    background-image:url("髭女子.jpg");
+    background-position: bottom 280% left 20%;
+    background-repeat: no-repeat;
+    
+ }
+.header {
+    width: 600px;
+    padding-left:10px;
+    padding-bottom:20px;
+    background:#dfb682;
+}
+.bodyblock h1{
+        color:#20201e;
+}
+.addTask-value{
+    
+}
+.addTask-trigger{
+
+}
+.todo-tasks{
+}
+.todo-task{
+
+}
+li { 
+    margin: 1rem 2rem 2rem 0;
+    display: flex;
+    justify-content: space-between;
+}
